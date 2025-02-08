@@ -1,0 +1,4 @@
+Company_n,TypeName_n,ScreenResolution_n,Cpu_n,Ram_n,Memory_n,Gpu_n,OpSys_n,Weight_n,Inches_scl,Price_scl,Unnamed: 0_ss
+2,1,1,2,0,2,2,1,2,1.0,1.0,0.0
+1,0,2,0,2,1,0,1,1,0.0,0.18478260869565222,0.7256385998107853
+0,2,0,1,1,0,1,0,0,0.042253521126760285,0.0,0.9999999999999999
